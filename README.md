@@ -1,2 +1,1 @@
-# p-che
-dépôt du nouveau cours
+# Projet p-che

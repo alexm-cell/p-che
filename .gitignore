@@ -1,0 +1,4 @@
+# Fichiers et répertoires à ignorer par Git
+node_modules/
+*.log
+.env
